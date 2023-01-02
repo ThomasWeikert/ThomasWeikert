@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I am Thomas, I help companies building data science, data analytics and data engineering functions! ✨
 <!--
 **ThomasWeikert/ThomasWeikert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
